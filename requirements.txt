@@ -1,0 +1,12 @@
+requirements = """requests
+pandas
+transformers
+torch
+gradio
+plotly
+"""
+
+with open("requirements.txt", "w") as f:
+    f.write(requirements)
+
+print("✅ requirements.txt created!")
