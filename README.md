@@ -20,7 +20,7 @@ on financial text.
 | AI Model | FinBERT (ProsusAI/finbert) |
 | News Data | NewsAPI |
 | Backend | Python |
-| UI | Gradio |
+| UI | Streamlit |
 | Charts | Plotly |
 | Deployment | HuggingFace Spaces |
 
